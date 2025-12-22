@@ -2,6 +2,10 @@
   "name": "around-hub-react-typescript",
   "version": "0.1.0",
   "private": true,
+  "description": "Around Hub React Project (Typescript)",
+  "main": "index.js",
+  "author": "WONDO-K",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -41,4 +45,5 @@
       "last 1 safari version"
     ]
   }
+
 }
